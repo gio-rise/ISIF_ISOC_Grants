@@ -1,0 +1,17 @@
+{
+  "lastReviewTimestamp": "2026-04-16T10:00:00+08:00",
+  "lastCodeChangeTimestamp": null,
+  "providers": ["codex", "gemini"],
+  "providerStatus": {
+    "codex": "complete",
+    "gemini": "timeout"
+  },
+  "findings": {
+    "critical": 1,
+    "high": 4,
+    "medium": 4,
+    "low": 2
+  },
+  "agreementScore": null,
+  "reviewHash": "d818edc944f1f33148049b9d0bed7e486a2bf13ebd80d544bd9bbfb7da56de25"
+}
