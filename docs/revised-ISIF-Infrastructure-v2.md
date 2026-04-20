@@ -6,52 +6,61 @@
 
 ## Title
 
-Rise Edge Network: Wavelength-Backed Provincial Wholesale and Regional IXP Scaling in the Philippines
+GetaFIX Provincial Edge Extension: Data-Driven Catchment Hubs for Underserved Philippine ISPs
 
 ---
 
-## 1. Introduction (248 words)
+## 1. Introduction (229 words)
 
-The Philippine internet is two networks in one country. Metro Manila has dense peering, wholesale bandwidth at $0.27–0.50/Mbps, and 15–35 ms latency to major content. Outside Manila, roughly 1,500 provincial ISPs serving 50+ million users pay $3–5/Mbps for small retail Layer-2 circuits that "trombone" — routing traffic through Manila and back before reaching peering or transit — a structural provincial tax driven by the absence of any wholesale alternative outside three incumbent carriers.
+The Philippine internet is two networks in one country. Metro Manila has dense peering, wholesale bandwidth at $0.27–0.50/Mbps, and 15–35 ms latency to major content. Outside Manila, approximately 1,500 provincial ISPs serving 50+ million users pay $3–5/Mbps for retail Layer-2 circuits that "trombone" — routing through Manila and back before reaching peering or transit — a structural provincial tax driven by the absence of wholesale alternatives outside three incumbent carriers.
 
-Rise operates GetaFIX, the country's largest multi-city neutral IXP (Manila 126+ members, 1 Tbps+ peak, traffic growing from 50 Gbps to 1 Tbps+ in four years; since 2018, ASN AS23942) and runs IXperience, a technical-workshop series co-delivered with APNIC and PhNOG that reached 126 companies and approximately 155 participants across Cebu, Davao, and Manila in 2025.
+Rise operates GetaFIX, the Philippines' largest multi-city neutral IXP (Manila 126+ members, 1 Tbps+ peak; since 2018, ASN AS23942), currently reaching four cities: Manila, Cebu, Davao, and Iloilo. Rise also runs IXperience, a technical-workshop series co-delivered with APNIC and PhNOG that engaged 155 companies and 251 participants across four events in 2025–2026.
 
-This twelve-month program deploys a structurally different wholesale model. Rise plans to invest an estimated $300,000 to acquire network-wide wavelength capacity (IRU) on the Philippine Domestic Submarine Cable Network (PDSCN — a 2,500 km, 33-landing-point cable system spanning Visayas and Mindanao) and pairs it with 400G coherent transponder pairs at existing Rise POPs in Cebu, Iloilo, and Davao, enabling published regional rates representing a 60–80% cost reduction versus provincial incumbent retail pricing.
+This twelve-month program extends the GetaFIX edge beyond existing POPs into five new provincial catchment hubs — Palompon (Visayas), Cagayan de Oro and Liloy (Mindanao), and Santa Maria Pangasinan and Tarlac City (Luzon) — selected from registry clustering to maximise provincial-ISP aggregation (236 ISPs combined catchment). Rise co-invests an estimated $400–500K covering PDSCN wavelength IRU, node hardware, fiber tails, and Year-1 operations.
 
-The grant anchors the public-interest layer: commissioning the first three edge segments, plus an RPKI/MANRS uplift cohort onboarding 10–12 provincial ISPs to regional GetaFIX peering under a published non-discriminatory tariff and open-access peering policy. The Konektadong Pinoy Act — which streamlines licensing for new ISPs — will bring a wave of provincial entrants; onboarding them now to RPKI/MANRS at affordable peering is cheaper than retrofitting later. All playbooks publish openly under CC-BY.
-
----
-
-## 2. Alignment (71 words)
-
-The project advances ISIF Asia 2026's Infrastructure focus by deploying and optimising critical internet infrastructure — specifically wavelength-backed wholesale backhaul and multi-city regional IXP scaling for underserved provincial Philippine networks. It measurably improves performance, reliability, affordability, and local benefits for Filipino users outside Metro Manila; strengthens RPKI and MANRS deployment at IXP and operator levels; and delivers open playbooks and a PDSCN reference topology reusable across APAC economies facing similar urban-rural backhaul asymmetry.
+The grant anchors the public-interest layer: commissioning the two highest-impact flagship hubs (CDO, 61 ISPs; Sta Maria Pangasinan, 99 ISPs — 68% of new-ISP footprint), plus an RPKI/MANRS uplift cohort onboarding 10–12 provincial ISPs ahead of the Konektadong Pinoy Act's licensing wave. All playbooks publish openly under CC-BY.
 
 ---
 
-## 3. Challenge (93 words)
+## 2. Alignment (70 words)
 
-Provincial Philippine ISPs pay three-to-ten times Manila's wholesale bandwidth rates because no wholesale alternative exists outside three incumbent carriers. A small provincial ISP buying 1–2G retail pays $3–5/Mbps — versus $0.27–0.50/Mbps at volume in Manila — a structural cost gap only wholesale scale can close. GetaFIX Cebu (12 members, 20 Gbps) shows early traction, while Davao (8 members, 20 Mbps) demonstrates the acute backhaul bottleneck constraining provincial exchange growth. RPKI ROA publication and MANRS compliance among provincial ASNs remain sparse, amplifying routing-security risk as the Konektadong Pinoy Act brings new entrants.
-
----
-
-## 4. Approach (100 words)
-
-Two coordinated workstreams over 12 months. Workstream A — Wavelength-backed edge commissioning: Rise invests an estimated $300K for network-wide PDSCN wavelength capacity (IRU); grant co-funds 400G coherent transponder pairs (~$45K CapEx), segment commissioning (~$15K), and first-year regional operations of GetaFIX edge nodes with dual redundant route servers, RPKI ROV, MANRS-IXP compliance, and a published non-discriminatory tariff at each site. Workstream B — Provincial uplift cohort (~$15K): 10–12 provincial ISPs from IXperience alumni publish ROAs, deploy ROV, achieve MANRS-Operator compliance, and establish peering at a regional GetaFIX site. Progress publishes openly on a live dashboard.
+The project advances ISIF Asia 2026's Infrastructure focus by deploying critical internet infrastructure — catchment-hub edge aggregation for underserved provincial Philippine networks — measurably improving performance, reliability, affordability, and local benefits for Filipino users outside Metro Manila. It strengthens RPKI and MANRS deployment at IXP and operator levels, delivers open playbooks and a PDSCN-backed catchment-extension reference topology reusable across APAC economies facing urban-rural backhaul asymmetry, and advances pilot and scalable-prototype objectives.
 
 ---
 
-## 5. Impact (100 words)
+## 3. Challenge (96 words)
 
-Within 12 months: regional GetaFIX edge nodes operational at Cebu, Iloilo, and Davao over PDSCN-backed wholesale capacity serving an estimated 200,000+ end users across participating ISP networks; published provincial wholesale rates delivering 60–80% cost reduction versus incumbent retail. GetaFIX Cebu reaches 25+ members with 100+ Gbps; Davao reaches 15+ members with meaningful traffic growth; Iloilo launches with 8+ founding members. Ten-to-twelve provincial ISPs publish ROAs, deploy ROV, and achieve MANRS-Operator compliance. Measurable latency reduction for Visayas-Mindanao users to top-20 content destinations. Post-grant, wavelength IRU and transponder assets generate recurring wholesale revenue sustaining operations independently. All playbooks publish under CC-BY.
-
----
-
-## 6. M&E (75 words)
-
-Six indicators tracked monthly on an open dashboard: (1) wholesale rate per Mbps at each edge site versus incumbent retail baseline (currently $3–5/Mbps); (2) provincial ISPs onboarded (baseline: zero wholesale customers); (3) traffic at Cebu, Iloilo, Davao edge nodes (baseline: Cebu 20 Gbps, Davao 20 Mbps, Iloilo nil); (4) RPKI ROA coverage and MANRS compliance across participating ASNs; (5) new peering sessions at regional sites; (6) Visayas-Mindanao-to-top-20-content latency, baselined at project start. PhNOG-nominated independent reviewers audit at months 6 and 12.
+Provincial Philippine ISPs pay three-to-ten times Manila's wholesale rates because no edge-aggregation infrastructure exists in their regions — forcing them to backhaul through Manila on incumbent retail circuits. Even where GetaFIX reaches (Cebu, Davao, Iloilo), coverage is metro-only; provincial ISPs in Misamis Oriental, Zamboanga del Norte, Pangasinan, Tarlac, and Leyte have no nearby neutral aggregation point. A small provincial ISP buying 1–2G retail pays $3–5/Mbps versus $0.27–0.50/Mbps at volume in Manila. RPKI ROA publication and MANRS compliance among provincial ASNs remain sparse, amplifying routing-security risk as the Konektadong Pinoy Act brings new entrants.
 
 ---
 
-## 7. Organisational Capability (100 words)
+## 4. Approach (99 words)
 
-Rise is a Philippine for-profit operating GetaFIX — the country's largest multi-city neutral IXP (Manila, Cebu, Davao; since 2018; ASN AS23942; 1 Tbps+ peak) — and runs IXperience, co-delivered with APNIC and PhNOG (126 companies, approximately 155 participants, 2025). Rise previously received a USD 150,000 ISIF Asia grant (Project School Internet, 2023) — connecting 50+ schools and reaching approximately 80,000 students across Metro Cebu, with Rise co-investing USD 130,000. Core team: Gio Bacareza, President and Chairman — 25+ years internet/telecom across APAC/LATAM, former VP at Smart Communications; Dylan Clear, Group CTO — 19 years carrier networking, former Juniper Networks engineer, designed GetaFIX multi-city infrastructure; Robertas Zudys, Group COO — former Head of Wholesale at Telia Lietuva.
+Two coordinated workstreams over 12 months. Workstream A — Catchment-hub edge extension: Rise co-invests ~$400–500K for PDSCN wavelength IRU, node hardware, fiber tails, and Year-1 operations across five new catchment hubs (Palompon, CDO, Liloy, Sta Maria Pangasinan, Tarlac — 236 provincial ISPs). Grant funds transponder pairs, node hardware, and commissioning at the two flagship hubs (CDO and Sta Maria Pangasinan — 68% of new-ISP footprint), with dual redundant route servers, RPKI ROV, MANRS-IXP compliance, and published non-discriminatory tariffs. Workstream B — Provincial uplift cohort: 10–12 provincial ISPs from the catchment publish ROAs, deploy ROV, achieve MANRS-Operator. Progress publishes openly.
+
+---
+
+## 5. Impact (99 words)
+
+Within 12 months: flagship GetaFIX catchment hubs operational at Cagayan de Oro and Santa Maria Pangasinan over PDSCN-backed wholesale capacity, serving 160 provincial ISPs (68% of new catchment); published wholesale rates delivering 60–80% cost reduction versus incumbent retail. Ten-to-twelve provincial ISPs from the catchment publish ROAs, deploy ROV, and achieve MANRS-Operator compliance. Measurable latency reduction for provincial users across Visayas, Mindanao, and Luzon to top-20 content destinations. Rise extends to three additional hubs (Palompon, Liloy, Tarlac) from commercial capital by month 18 — 236 ISPs under coverage. Post-grant, wavelength and node assets sustain wholesale revenue independently. All playbooks publish under CC-BY.
+
+---
+
+## 6. M&E (73 words)
+
+Six indicators tracked monthly on an open dashboard: (1) wholesale rate per Mbps at CDO and Sta Maria versus incumbent baseline ($3–5/Mbps); (2) provincial ISPs onboarded at flagship hubs (baseline: zero); (3) traffic at flagship hubs (baseline: zero); (4) RPKI ROA coverage and MANRS compliance across participating ASNs; (5) new peering sessions at flagship sites; (6) provincial-to-top-20-content latency, baselined at project start. PhNOG-nominated independent reviewers audit at months 6 and 12.
+
+---
+
+## 7. Organisational Capability (96 words)
+
+Rise is a Philippine for-profit operating GetaFIX — the country's largest multi-city neutral IXP (Manila, Cebu, Davao, Iloilo; since 2018; ASN AS23942; 1 Tbps+ peak) — and runs IXperience with APNIC and PhNOG (155 companies, 251 participants across four events, 2025–2026). Rise previously received a USD 150,000 ISIF Asia grant (Project School Internet, 2023) — 50+ schools and ~80,000 students across Metro Cebu, with Rise co-investing USD 130,000; the same skin-in-the-game pattern extends here. Core team: Gio Bacareza, President — 25+ years internet/telecom, former VP Smart Communications; Dylan Clear, Group CTO — 19 years carrier networking, former Juniper; Robertas Zudys, Group COO — former Head of Wholesale, Telia Lietuva.
+
+---
+
+## Open placeholders (to confirm before submission)
+
+1. **Exact Rise co-investment total** — currently stated as "~$400–500K." Confirm with Dylan the precise figure covering PDSCN IRU + node hardware across 5 hubs + fiber tails + Year-1 opex.
+2. **Opex sustainability math** — currently implicit in Impact ("assets sustain wholesale revenue independently"). Reviewers will ask "what happens after Year 1?" Need a line like "at N committed ISPs × M Mbps × $P/Mbps wholesale per flagship hub, each hub covers recurring wave + node opex by month Q." Dylan's numbers.
+3. **`99*` on Sta Maria Pangasinan** — confirmed correct per clustering; asterisk can be removed from the source table when submitting.
+4. **PDSCN resale rights** — flagged as unresolved in the 2026-04-16 fact-check. Needs written confirmation from Eastern Telecom / Globe / Infinivan before full-proposal stage (not required for concept note, but reviewers may ask).
