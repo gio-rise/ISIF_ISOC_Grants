@@ -1,3 +1,4 @@
 .DS_Store
 docs/unpacked/
 .claude/test-gate-state.json
+.claude/handovers/

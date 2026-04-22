@@ -1,12 +1,21 @@
 # CURRENT_STATE: ISIF/ISOC Grant Applications
 
-## Status: ISIF Capability draft mapped into portal; two PDF uploads + title fix block submission. SPI still owed (parallel session). Infrastructure dropped.
+## Status: ISOC SPI Fluxx registration submitted (awaiting approval). ISIF Capability mapped into portal, blocked on 2 PDF uploads + title fix. Infrastructure dropped.
 
-> Note: APNIC Foundation grants portal is **apnic.grantplatform.com** (Good Grants), not Fluxx. Only ISOC uses Fluxx (isocfoundation.fluxx.io). Prior state file said otherwise — corrected.
+> Note: APNIC Foundation grants portal is **apnic.grantplatform.com** (Good Grants), not Fluxx. Only ISOC uses Fluxx (isocfoundation.fluxx.io). Prior state file said otherwise, corrected.
 
 ## Recent Accomplishments
 
-### Session 2026-04-22 (late): ISIF portal mapping + Capability rewrite
+### Session 2026-04-22 (late, ISOC): Fluxx registration + SPI draft softening
+- Submitted RISE organization registration to ISOC Foundation Grants Portal (isocfoundation.fluxx.io). Registration confirmation received; awaiting two approval emails from @fluxx.io (SLA: 1-2 business days).
+- Sent administrative expedite email to grants@isoc.foundation flagging the 23 Apr 21:00 UTC deadline.
+- Filled Fluxx "SPI Project Summary" (528/550 chars) and "Organization Mission" fields using RISE's canonical three-pillar framing.
+- Removed hard USD 25,000 RISE co-invest commitments from `docs/ISOC Grant SPI.md` Sections 1, 5, and 7. Now framed as conditional / multi-sourced (grant first, operator/carrier sponsorships, RISE operational budget as needed).
+- Verified via WebFetch: SPI Peering Ecosystem Support attachments are (a) combined Budget/Workplan/Equipment Request template served inside Fluxx, (b) at least 1 community-interest document. Correction to prior research. For-profit status confirmed eligible on Peering Ecosystem Support track.
+- Resolved SPI community-interest blocker: existing RISE-FICTAP MOA satisfies the requirement; no fresh letter chase needed.
+- Research doc saved: `docs/research/2026-04-22-spi-fluxx-registration-and-attachment-requirements.md`.
+
+### Session 2026-04-22 (late, ISIF): ISIF portal mapping + Capability rewrite
 - Confirmed APNIC Foundation portal is Good Grants, not Fluxx. Gio is registered and logged in.
 - Confirmed ISIF 2026 has only three categories: IPV6, Project Implementation, Research. No separate Infrastructure/Capability tracks. Capability bid submitted under "ISIF - Project Implementation" at $50K.
 - Rewrote `docs/ISIF Grant Capability.md` to form spec: portal-selections metadata table, new Target Beneficiaries 50-word bulleted block, trimmed Introduction to 219/250 and Approach to 78/100. All 9 form fields now under cap.
@@ -23,24 +32,20 @@
 - Decoupled SPI delivery from ISIF Capability: SPI ships on proven IXperience 2025 model regardless of Capability outcome.
 - Rebuilt SPI Section 5 (Budget) against marketing's per-city lean costs. SPI $25K covers 5 non-Cebu legs; Cebu absorbed by PhNOG Conference 2026. Additionality signal added.
 
-### Session 2026-04-20: Infrastructure thesis rewrite (catchment hubs)
-- Archived. Infrastructure no longer being pursued; revised-ISIF-Infrastructure-v2.md retained as reference artifact only.
-
 ## Next Priorities
 
-1. **Submit ISIF Capability by 2026-04-24 10:00 GMT+10.** Blocking items: (a) fix Application Title to `RISE - IXperience Pro - 2026` on Start here tab; (b) upload Legal Registration PDF; (c) upload List of Officers PDF. Optional: 2-min video URL, up to 5 supporting visuals (no text-heavy flyers).
-2. **Submit SPI by 2026-04-23 21:00 UTC** (parallel session). Map `docs/ISOC Grant SPI.md` into Fluxx, attach budget workbook, workplan, community-interest doc.
-3. **Confirm ISOC Fluxx portal registration status.** APNIC side is done. ISOC side unknown from this session's vantage.
-4. **Get FICTAP/PCTA letters of support.** Requests drafted at `docs/letter-request-FICTAP.md` and `docs/letter-request-PCTA.md`. Needed for SPI community-interest doc and strengthens Capability.
-5. **Parallel, independent of grant decisions: trainer funding.** Asks to APNIC Academy (fellowship) and NSRC (instructor matching).
+1. **Submit ISIF Capability by 2026-04-24 10:00 GMT+10** (ISIF session owns). Blocking items: (a) Application Title fix to `RISE - IXperience Pro - 2026`; (b) Legal Registration PDF upload; (c) List of Officers PDF upload. Optional: 2-min video URL, up to 5 supporting visuals.
+2. **Submit SPI by 2026-04-23 21:00 UTC.** Wait for Fluxx approval, then map `docs/ISOC Grant SPI.md` into Fluxx, complete combined Budget/Workplan/Equipment Request template inside Fluxx (Equipment Request expected N/A), attach RISE-FICTAP MOA PDF, submit.
+3. **Stage a clean PDF of the RISE-FICTAP MOA** for upload at application stage.
+4. **Escalation insurance:** if Fluxx approval lags past 2026-04-23 noon UTC, follow up again with grants@isoc.foundation.
+5. **Optional / independent of grant decisions:** PCTA letter of support; APNIC Academy fellowship and NSRC instructor-matching asks for trainer pipeline.
 
 ## Blockers
 
 - Legal Registration PDF + List of Officers PDF not yet uploaded to ISIF portal (blocks ISIF submit).
 - Application Title needs "RISE -" prefix correction in ISIF portal (compliance fix).
-- ISOC Fluxx portal registration status unknown.
-- Community interest document for SPI (FICTAP letter or MOA copy).
-- FICTAP/PCTA letters of support not yet returned.
+- ISOC Fluxx registration awaiting approval (1-2 business day SLA, expedite email sent).
+- Clean RISE-FICTAP MOA PDF not yet staged for SPI upload.
 
 ## Key Files
 

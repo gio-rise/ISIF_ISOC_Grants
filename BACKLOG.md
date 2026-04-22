@@ -12,14 +12,13 @@
 
 ### ISOC SPI submission (blocks 2026-04-23 21:00 UTC)
 
-- **Register on ISOC Fluxx (isocfoundation.fluxx.io) under gio.bacareza@rise.ph.** Why: SPI deadline 2026-04-23 21:00 UTC. Standard 24hr approval. Escalate to grants@isoc.foundation if approval lags.
-- **Build SPI budget workbook (xlsx) from Section 5 table.** Why: Fluxx requires line-item detail using ISOC Foundation budget template.
-- **Fill SPI workplan template.** Why: required Fluxx attachment.
-- **Obtain community interest document for SPI.** Why: required attachment. FICTAP letter of support or RISE–FICTAP MOA copy satisfies this.
+- **Fill combined Budget/Workplan/Equipment Request template inside Fluxx after login.** Why: ISOC serves a single combined template inside the portal, not three separate files; Equipment Request section expected N/A for workshops program. Requires Fluxx approval first.
+- **Stage clean PDF of RISE-FICTAP MOA for SPI upload.** Why: required community-interest attachment; don't scramble at submission time.
+- **Escalation insurance: if Fluxx approval not received by 2026-04-23 noon UTC, follow up again with grants@isoc.foundation.** Why: application deadline is 21:00 UTC same day; need buffer to complete the Fluxx form once in.
 
 ### Letters of support
 
-- **Chase FICTAP letter of support.** Why: strengthens both applications; doubles as SPI community interest doc. Request drafted at `docs/letter-request-FICTAP.md`.
+- **Optional: chase FICTAP letter of support for ISIF Capability.** Why: no longer required for SPI (MOA satisfies community-interest requirement); would marginally strengthen ISIF Capability only. Request drafted at `docs/letter-request-FICTAP.md`.
 - **Chase PCTA letter of support.** Why: PCTA's endorsement corroborates the cable-TV-to-fiber cohort narrative now in both grants. Request drafted at `docs/letter-request-PCTA.md`.
 
 ### Trainer pipeline (independent of grant decisions)
@@ -39,6 +38,11 @@
 
 ## Done (recent)
 
+- **2026-04-22 (late, ISOC) — ISOC Fluxx organization registration submitted; awaiting approval (1-2 business day SLA). Expedite email sent to grants@isoc.foundation.**
+- **2026-04-22 (late, ISOC) — SPI Fluxx "Project Summary" (528/550 chars) and "Organization Mission" fields filled and submitted.**
+- **2026-04-22 (late, ISOC) — Hard USD 25,000 RISE co-invest commitments removed from SPI draft Sections 1, 5, 7; now framed as conditional/multi-sourced. Feedback memory saved.**
+- **2026-04-22 (late, ISOC) — ISOC SPI attachment requirements verified via WebFetch: combined Budget/Workplan/Equipment Request template + 1 community-interest doc. For-profit eligibility on PES track confirmed.**
+- **2026-04-22 (late, ISOC) — SPI community-interest blocker resolved: existing RISE-FICTAP MOA satisfies the requirement.**
 - **2026-04-22 (late) — APNIC Foundation portal confirmed as apnic.grantplatform.com (Good Grants), not Fluxx. Gio registered and logged in.**
 - **2026-04-22 (late) — ISIF Capability draft trimmed to form word caps; portal-selections table and Target Beneficiaries block added.**
 - **2026-04-22 (late) — Org Capability rewritten with verified GetaFIX metrics (126+ / 1,952 / 11 DCs / 1 Tbps) and 2024 USTDA award; unverified USD 150K/130K figures dropped.**

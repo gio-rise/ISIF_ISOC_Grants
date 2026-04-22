@@ -28,7 +28,7 @@ The IXPerience Philippines 2026 technical workshops will be in six new provincia
 
 The six SPI-funded workshops will be held in Cebu (July 2026, co-located with a PhNOG event), Cagayan de Oro (the Mindanao hub), Iloilo, Clark (Pampanga), Naga (Camarines Sur), and Tacloban (Leyte). These cities were selected as the most concentrated provincial-ISP hubs across six regions: Central Visayas, Central Luzon, Eastern Visayas, Bicol, Western Visayas including Negros, and all of Mindanao. Precise ISP counts are hard to pin down, as there is no single authoritative Philippine registry and public sources (NTC, PeeringDB, CAIDA, FICTAP and PCTA rosters) each capture a different slice; but best-available estimates place the total across these regions at several hundred operators, representing the bulk of provincial connectivity demand outside Metro Manila.
 
-Participation is open to any ISP, content network, or enterprise regardless of IXP affiliation. Workshop outcomes are measured by new peering relationships established at any Philippine IXP, not exclusively at GetaFIX. RISE co-invests approximately USD 25,000 in staff time and partner contributions alongside this grant.
+Participation is open to any ISP, content network, or enterprise regardless of IXP affiliation. Workshop outcomes are measured by new peering relationships established at any Philippine IXP, not exclusively at GetaFIX. RISE contributes staff time, partner coordination, and logistics alongside this grant; any program costs that exceed the SPI budget are absorbed through a layered funding stack of operator and carrier sponsorships, PhNOG Conference 2026 absorption of the Cebu leg's direct event costs, and RISE operational top-ups where warranted.
 
 ---
 
@@ -141,7 +141,7 @@ If premium-level execution proves warranted in Clark and/or Cagayan de Oro, the 
 
 The curriculum and courseware already exist; APNIC Academy provides online labs and training materials at no cost, and IXperience has two years of proven workshop content. The constraint preventing expansion into provincial cities is not content; it is logistics. Venue, meals, AV, facilitator travel, and networking socials account for the bulk of every workshop's cost. SPI removes this constraint for five net-new provincial cities that RISE cannot unilaterally underwrite at the quality bar reviewers would expect.
 
-**RISE co-investment:** RISE contributes staff time for program coordination, logistics planning, and FICTAP partnership management, valued at approximately USD 25,000 across the program year, plus strategic-city operational top-ups where sponsorship falls short. IXperience 2025 technical workshops in Cebu, Davao, and Manila were delivered entirely from RISE's operational budget; SPI is requested for the specific expansion into five provincial cities that would not otherwise be funded.
+**RISE co-investment:** RISE contributes staff time for program coordination, logistics planning, and FICTAP partnership management, plus strategic-city operational top-ups where sponsorship falls short. IXperience 2025 technical workshops in Cebu, Davao, and Manila were delivered entirely from RISE's operational budget; SPI is requested for the specific expansion into five provincial cities that would not otherwise be funded.
 
 Detailed line-item budget attached as required in the Fluxx submission using ISOC Foundation's budget template.
 
@@ -163,7 +163,7 @@ RISE has previously managed international grant-funded projects at scale. In 202
 
 The program is designed to persist beyond the SPI-funded year through three mechanisms:
 
-**Commercial alignment.** RISE allocates staff time and sponsorship revenue (approximately USD 25,000 per year) to continue at least two peering-community workshops annually after the grant period. As a commercial IXP operator, RISE's business model depends on a growing, healthy peering ecosystem, this is not philanthropic overhead but a core operational investment. The same commercial logic sustains community programs at LINX and AMS-IX globally.
+**Commercial alignment.** RISE sustains at least two peering-community workshops annually after the grant period, funded through a layered stack of operator and carrier sponsorships, partner contributions from APNIC, PhNOG, and DE-CIX, and RISE operational budget as needed. As a commercial IXP operator, RISE's business model depends on a growing, healthy peering ecosystem, so sustaining the community program is not philanthropic overhead but a core operational investment. The same commercial logic sustains community programs at LINX and AMS-IX globally.
 
 **Institutional partnerships.** RISE's standing MOA with FICTAP ensures ongoing access to FICTAP's national ISP membership for outreach, recruitment, and event coordination. PhNOG provides the technical community anchor. These relationships do not depend on grant funding.
 
