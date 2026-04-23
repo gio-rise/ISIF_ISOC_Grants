@@ -1,9 +1,13 @@
+# /// script
+# requires-python = ">=3.10"
+# dependencies = ["python-pptx"]
+# ///
 """
 Build editable PPTX for the ISIF Capability concept video.
 Uses python-pptx for native editable text/shapes (vs MARP's rasterized output).
 Applies RISE Style Guide 2019 brand system.
 
-Run from project root:
+Run from anywhere (uv handles the environment inline via the PEP 723 header):
     uv run docs/presentations/isif-capability-video/build_slides.py
 """
 
