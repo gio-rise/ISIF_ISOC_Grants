@@ -2,6 +2,7 @@
 docs/unpacked/
 .claude/test-gate-state.json
 .claude/handovers/
+.claude/multi-model-review-state.json
 .venv/
 __pycache__/
 *.pyc
