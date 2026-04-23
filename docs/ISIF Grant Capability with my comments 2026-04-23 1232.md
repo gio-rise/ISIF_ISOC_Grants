@@ -7,17 +7,17 @@
 
 ## Portal Selections (Summary tab)
 
-| Field | Selection |
-|---|---|
-| Category | ISIF - Project Implementation |
-| Application Title | RISE - IXperience Pro - 2026 |
-| Project Title (10 words) | IXperience Pro: BGP and Peering Training for Provincial Philippine ISPs |
-| Strategic Pillar | Building Capabilities |
-| Strategic Objective | Enhance technical capability of more than 100,000 people |
-| Theme Alignment (2) | Expanding Connectivity and Capability; Strengthening Internet Infrastructure and Resilience |
-| Grant Amount | Up to USD 50,000 |
-| Implementation Period | 12 Months |
-| Target Economy | Philippines |
+| Field                    | Selection                                                                                   |
+| ------------------------ | ------------------------------------------------------------------------------------------- |
+| Category                 | ISIF - Project Implementation                                                               |
+| Application Title        | RISE - IXperience Pro - 2026                                                                |
+| Project Title (10 words) | IXperience Pro: BGP and Peering Training for Provincial Philippine ISPs                     |
+| Strategic Pillar         | Building Capabilities                                                                       |
+| Strategic Objective      | Enhance technical capability of more than 100,000 people                                    |
+| Theme Alignment (2)      | Expanding Connectivity and Capability; Strengthening Internet Infrastructure and Resilience |
+| Grant Amount             | Up to USD 50,000                                                                            |
+| Implementation Period    | 12 Months                                                                                   |
+| Target Economy           | Philippines                                                                                 |
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### 1. Introduction (250 words)
 
-IXperience Pro is a structured, cohort-based curriculum in BGP, peering, routing security, and IXP operations for provincial Philippine ISP engineers, the operators serving over 50 million Filipinos outside Metro Manila. It builds on IXperience, RISE's community workshop series co-delivered with APNIC and PhNOG, which across four events has engaged 155 companies and 251 participants with 71% provincial coverage and 100% participant interest in future sessions. But IXperience is episodic: no curriculum spine, no cohort progression, no local trainer pipeline.
+IXperience Pro is a structured, cohort-based curriculum in BGP, peering, routing security, and IXP operations for provincial Philippine ISP engineers, the operators serving over 50 million Filipinos outside Metro Manila. It builds on IXperience, RISE's community workshop series co-delivered with APNIC, PhNOG and DE-CIX, which across four events has engaged 155 companies and 251 participants with 71% provincial coverage and 100% participant interest in future sessions. But IXperience is episodic: no curriculum spine, no cohort progression, no local trainer pipeline.
 
 Provincial ISP engineers lack affordable, structured training in modern network operations. Formal programs are Manila-centric. APNIC Academy and NSRC are excellent but scarce, and reliance on international instructors caps how many Philippine workshops can run each year. IXperience Pro solves both problems: a Philippine-localised curriculum delivered on APNIC Academy courseware and labs, and a train-the-trainer track that develops local Filipino facilitators so the program scales independently of international instructors.
 
@@ -152,20 +152,23 @@ Both are framed around the same causal chain the concept note builds: **capabili
 **ON SCREEN:** Clean typography. Three World Bank indicators animate in as spoken. Small WB citation in corner.
 
 **GIO (voiceover, then on-camera):**
-> The Philippines has a broadband problem. The World Bank measures it on three axes: access, affordability, and quality. Household fixed penetration, 33 percent. Bandwidth, 11 percent of GNI per capita, the highest in ASEAN. Speeds lag every major ASEAN peer.
+
+> The Philippines has an Internet problem. The World Bank measures it on three axes: access, affordability, and quality. Household fixed penetration, 33 percent. Bandwidth, 11 percent of GNI per capita, the highest in ASEAN. Speeds lag every major ASEAN peer.
 
 #### [0:15 – 0:40] Why the gap persists
 
 **ON SCREEN:** Side-by-side comparison animation, Small ISPs vs Globe/PLDT duopoly; four metric bars (revenue growth, net margin, CAPEX, bandwidth spend) fill in as spoken. Quick cut to provincial cable-TV-to-fiber B-roll (aerial fiber splice, roadside build) under the cable-TV line.
 
 **GIO (on-camera):**
-> Small ISPs carry the expansion. Many began as cable TV operators, now running fiber. Their revenues grew 83 percent over five years. But they earn just 4 percent net margin, reinvest only 17 percent of revenue in CAPEX, and roughly a third of their revenue goes straight to wholesale bandwidth. That's why they can't build faster, cheaper, or better.
+
+> Small ISPs carry the expansion. Many began as cable TV operators, now running fiber. They earn just 4 percent net margin, reinvest only 17 percent of revenue in CAPEX, and roughly half of their revenue goes straight to wholesale bandwidth. That's why they can't build faster, cheaper, or better.
 
 #### [0:40 – 1:00] The lever
 
 **ON SCREEN:** Causal-chain diagram animates left to right. "Capability → Peering, routing security, IXP participation → Lower bandwidth spend → Reinvestment capacity → Coverage, affordability, quality."
 
 **GIO:**
+
 > Regulatory reform is coming. In the meantime, capability is the one lever operators themselves control. Peering, routing security, and IXP participation reduce the bandwidth bill directly. That restores reinvestment capacity. And reinvestment is what moves the three World Bank indicators.
 
 #### [1:00 – 1:25] What IXperience Pro is
@@ -173,6 +176,7 @@ Both are framed around the same causal chain the concept note builds: **capabili
 **ON SCREEN:** Curriculum architecture diagram (four modules, four cohorts, TTT arrow). Past IXperience workshop photos fade in as B-roll, participants visible and engaged.
 
 **GIO:**
+
 > IXperience Pro is a structured cohort program for provincial Philippine engineers. Four modules: BGP, peering, routing security, and IXP operations, co-developed with APNIC Academy. Four cohorts of fifteen, sixty engineers from at least twenty ISPs. And a train-the-trainer track that certifies four to six Filipino facilitators, so delivery becomes independent of international instructors.
 
 #### [1:25 – 1:50] Why it works, and why it's ours to organize
@@ -180,13 +184,15 @@ Both are framed around the same causal chain the concept note builds: **capabili
 **ON SCREEN:** IXperience stats card fills the frame (4 events, 155 companies, 251 participants, 71% provincial). Cuts to photo mosaic of past IXperience participants. Quick cut to Project School Internet reference (APNIC grantee page or Basak Elementary photo). Cuts to FICTAP logo or a FICTAP event shot.
 
 **GIO:**
-> This isn't an experiment. With APNIC and PhNOG, we've trained 251 engineers from 155 companies, seventy-one percent provincial. Curriculum runs on APNIC Academy labs. Our 2023 ISIF grant, Project School Internet, connected over 50 schools in Cebu. And under standing MOA with FICTAP, the fiber ISP trade association, RISE serves as the community's designated capability partner.
+
+> This isn't an experiment. With APNIC and PhNOG, we've trained 251 engineers from 155 companies, seventy-one percent provincial. Curriculum runs on APNIC Academy labs. Our 2023 ISIF grant, Project School Internet, connected over 50 schools in Cebu. And under standing MOA with FICTAP, the cable tv operators trade association, RISE serves as the community's designated capability partner.
 
 #### [1:50 – 2:00] Close
 
 **ON SCREEN:** Brief return to the causal-chain diagram, then quiet logo fade: RISE, APNIC Academy, PhNOG, FICTAP. No tagline overlay.
 
 **GIO:**
+
 > Filipino engineers trained by Filipino engineers. Lower bandwidth costs. Restored reinvestment capacity. Measurable movement on the indicators the World Bank tracks.
 
 **FADE TO BLACK.**
@@ -233,13 +239,13 @@ Program-centered diagram, not organization-centered. Center node: IXperience Pro
 
 #### Dimension coverage check
 
-| Scoring dimension | Video beat(s) | Visual(s) |
-|---|---|---|
-| Challenge | 0:00-0:40 | 1, 2 |
-| Approach | 1:00-1:25 | 3, 4 |
-| Impact | 0:40-1:00, 1:50-2:00 | 3 |
-| Org Capability | 1:25-1:50 | 4, 5 |
-| Sustainability/Originality | 1:50-2:00 | 3, 5 |
-| M&E (via causal chain) | 0:40-1:00 | 3 |
+| Scoring dimension          | Video beat(s)        | Visual(s) |
+| -------------------------- | -------------------- | --------- |
+| Challenge                  | 0:00-0:40            | 1, 2      |
+| Approach                   | 1:00-1:25            | 3, 4      |
+| Impact                     | 0:40-1:00, 1:50-2:00 | 3         |
+| Org Capability             | 1:25-1:50            | 4, 5      |
+| Sustainability/Originality | 1:50-2:00            | 3, 5      |
+| M&E (via causal chain)     | 0:40-1:00            | 3         |
 
 All six reviewer axes covered across the optional attachments.

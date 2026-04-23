@@ -4,11 +4,14 @@
 
 ### ISIF Capability submission (blocks 2026-04-24 10:00 GMT+10)
 
-- **Fix Application Title in ISIF portal: `RISE - IXperience Pro - 2026`.** Why: portal instruction requires "Org name - Title - YYYY" format; current entry omits the "RISE -" prefix. Compliance fix.
-- **Upload Legal Registration PDF to Organisation tab (ISIF portal).** Why: mandatory Phase 1 attachment; blocks submit.
-- **Upload List of Officers PDF to Organisation tab (ISIF portal).** Why: mandatory Phase 1 attachment; blocks submit.
-- **Record 2-min video pitch (optional).** Why: high-leverage — reviewers watching hundreds of concept notes respond to faces. Embed via YouTube/Vimeo URL on Concept Note tab. Skip only if physically impossible in remaining window.
-- **Prepare up to 5 supporting images/PDFs (optional).** Why: portal allows visuals only (no text-heavy flyers, per "no further written material" rule). Candidates: GetaFIX network/ecosystem infographic, IXperience workshop photos, FICTAP MOA signature page, team photo.
+- **Trim Challenge section to 100 words (currently 104, over by 4).** Why: portal enforces word caps; discovered in 2026-04-23 audit.
+- **Trim Approach section to 100 words (currently 107, over by 7).** Why: same.
+- **Trim M&E section to 75 words (currently 82, over by 7).** Why: same.
+- **Fix Application Title in ISIF portal: `RISE - IXperience Pro - 2026`.** Why: portal instruction requires "Org name - Title - YYYY" format; current entry omits the "RISE -" prefix.
+- **Upload Legal Registration PDF to Organisation tab (ISIF portal).** Why: mandatory Phase 1 attachment.
+- **Upload List of Officers PDF to Organisation tab (ISIF portal).** Why: mandatory Phase 1 attachment.
+- **Record 2-min video using `docs/presentations/isif-capability-video/slides.pptx`** as presentation background with webcam overlay; upload to YouTube unlisted; paste URL into Concept Note tab. Why: deck is ready; script v2 in Capability.md; only recording + upload remain.
+- **Marketing ask: RISE signature logo PNG, 3-5 IXperience workshop photos (participants in learning mode + audience shot + speaker at podium), APNIC Academy + PhNOG + FICTAP logos (PNG/SVG), optional Project School Internet photo, written consent confirmation for participant photos.** Why: swaps into photo placeholders in slides 4 and 5; upgrades slide 6 partner row and bottom-left RISE mark from text to logo.
 
 ### ISOC SPI submission (blocks 2026-04-23 21:00 UTC)
 
@@ -38,6 +41,13 @@
 
 ## Done (recent)
 
+- **2026-04-23 — WB broadband three-pillar framing validated against World Bank Jan 2024 policy note; key figures cited verbatim in Capability Challenge and Impact.**
+- **2026-04-23 — Capability reframed causal: training → peering/routing → lower bandwidth spend → reinvestment capacity → WB access/affordability/quality indicators. Challenge and Impact rewritten; M&E indicator #5 added.**
+- **2026-04-23 — GetaFIX removed from Capability program mechanics (Intro, Approach, video beat 5, Visual 5, production notes). GetaFIX retained only in OrgCap as institutional credential. IXP-neutrality explicit.**
+- **2026-04-23 — Factual error corrected: training runs on APNIC Academy labs and courseware, not a live production IXP.**
+- **2026-04-23 — Video script v2 written (documentary register). Rejected mission-first opener and the Beat 2 rewrite that dropped WB Table 1 data; merged cable-TV context; added 2023 ISIF grant credibility; closed WB-indicator loop.**
+- **2026-04-23 — Editable PPTX deck built with python-pptx (6 slides, 50KB). Replaced MARP-rendered PPTX which was rasterized. RISE Style Guide 2019 brand applied.**
+- **2026-04-23 — Integrated operational program model (SPI + ISIF as IXperience Philippines 2026) saved as project memory.**
 - **2026-04-22 (late, ISOC) — ISOC Fluxx organization registration submitted; awaiting approval (1-2 business day SLA). Expedite email sent to grants@isoc.foundation.**
 - **2026-04-22 (late, ISOC) — SPI Fluxx "Project Summary" (528/550 chars) and "Organization Mission" fields filled and submitted.**
 - **2026-04-22 (late, ISOC) — Hard USD 25,000 RISE co-invest commitments removed from SPI draft Sections 1, 5, 7; now framed as conditional/multi-sourced. Feedback memory saved.**
