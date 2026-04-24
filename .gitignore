@@ -6,3 +6,14 @@ docs/unpacked/
 .venv/
 __pycache__/
 *.pyc
+
+# PowerPoint/Office lockfiles and autosaves
+~$*
+*Autosaved*.pptx
+
+# Transient PPTX extraction artifacts
+docs/presentations/isif-capability-video/extracted-recording/
+
+# Claude Code scheduler state
+.claude/scheduled_tasks.lock
+.claude/snapshot-draft.md

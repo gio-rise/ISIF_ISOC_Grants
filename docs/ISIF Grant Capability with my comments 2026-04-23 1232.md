@@ -31,7 +31,7 @@
 - 50 million+ provincial Filipino subscribers served by better-peered, more-resilient networks
 - APAC community via CC-BY open-source curriculum
 
-*(48 words)*
+*(50 words)*
 
 ---
 
@@ -43,7 +43,7 @@ Provincial ISP engineers lack affordable, structured training in modern network 
 
 Over 12 months we will co-develop a four-module open-source program, BGP fundamentals, peering and interconnection, routing security (RPKI/MANRS), and IXP-operator essentials, with APNIC Academy, certifying 4-6 Filipino engineers as future facilitators. Four 3-day cohorts of 15 engineers (60 total) from at least 20 provincial ISPs train in rotating cities on APNIC Academy labs and courseware. Graduates join an alumni network anchored by RISE's MOA with FICTAP. All materials publish under CC-BY. The intended mechanism: stronger peering and routing literacy reduce graduates' wholesale bandwidth spend, restoring reinvestment capacity for coverage, affordability, and quality, the three broadband-development indicators the Philippines is measurably failing.
 
-*(241 words)*
+*(250 words)*
 
 ---
 
@@ -51,13 +51,13 @@ Over 12 months we will co-develop a four-module open-source program, BGP fundame
 
 This proposal addresses APNIC Foundation's Building Capabilities pillar at a point where capability directly moves broadband-development indicators the Philippines is measurably failing: 33 percent household fixed-broadband penetration (well below Malaysia, Thailand, Viet Nam), bandwidth priced at 11 percent of GNI per capita (highest in ASEAN), and median fixed speeds below every major ASEAN peer. It serves the Expanding Connectivity and Capability theme and strengthens infrastructure resilience via RPKI/MANRS. Materials publish under CC-BY for APAC reuse.
 
-*(74 words)*
+*(75 words)*
 
 ---
 
 ### 3. Challenge (100 words)
 
-The Philippines lags on three World Bank broadband indicators: 33 percent household fixed penetration (Viet Nam 76, Malaysia 50); bandwidth at 11 percent of GNI per capita, highest in ASEAN; and fixed speeds below every major ASEAN peer. Small ISPs carry the expansion mandate, growing revenue 83 percent over 2017-22 versus the Globe/PLDT duopoly's 29 percent, yet earn 4 percent net margin and reinvest just 17 percent of revenue in CAPEX (duopoly: 14 and 47 percent). Wholesale bandwidth absorbs roughly a third of their revenue. Within this market structure, capability is the lever operators themselves control: peering and routing literacy reduce the bandwidth bill.
+The Philippines lags on three World Bank broadband indicators: 33 percent household fixed penetration (Viet Nam 76, Malaysia 50); bandwidth at 11 percent of GNI per capita, highest in ASEAN; and fixed speeds below every major ASEAN peer. Small ISPs carry the expansion, growing revenue 83 percent over 2017-22 versus the Globe/PLDT duopoly's 29 percent, yet earn 4 percent net margin and reinvest 17 percent of revenue in CAPEX (duopoly: 14 and 47 percent). Wholesale bandwidth absorbs roughly a third of their revenue. Within this market, capability is the lever operators control: peering and routing literacy reduce the bandwidth bill.
 
 *(100 words)*
 
@@ -66,12 +66,12 @@ The Philippines lags on three World Bank broadband indicators: 33 percent househ
 ### 4. Approach (100 words, bulleted)
 
 - Co-develop open-source four-module curriculum with APNIC Academy: BGP fundamentals, peering and interconnection, routing security (RPKI/MANRS), IXP-operator practice; localised to Philippine equipment, regulation, and peering topology
-- Run train-the-trainer track: 4-6 Filipino engineers shadow early cohorts, co-deliver mid-program, lead cohort 4 independently, earning facilitator certification
-- Deliver four 3-day cohorts of 15 engineers (60 total) in provincial cities on APNIC Academy labs and courseware; graduates apply peering and routing improvements at their own ISPs, reducing operational bandwidth spend. Program outcomes are IXP-neutral: peering and routing gains count regardless of which IXP graduates choose
-- Graduate participants through hands-on assessments with public certificates and FICTAP-anchored alumni network
+- Run train-the-trainer track: 4-6 Filipino engineers shadow early cohorts, co-deliver mid-program, lead cohort 4, earning facilitator certification
+- Deliver four 3-day cohorts of 15 engineers (60 total) in provincial cities on APNIC Academy labs and courseware; graduates apply peering and routing improvements at their ISPs, reducing bandwidth spend. Outcomes are IXP-neutral: peering and routing gains count wherever graduates apply them
+- Graduate participants through hands-on assessments with certificates and FICTAP-anchored alumni network
 - Release all materials under CC-BY
 
-*(92 words)*
+*(100 words)*
 
 ---
 
@@ -79,7 +79,7 @@ The Philippines lags on three World Bank broadband indicators: 33 percent househ
 
 Within 12 months: 60 certified provincial engineers from 20+ ISPs across Visayas, Mindanao, and Luzon; 4-6 certified Filipino trainers capable of delivering future cohorts independently; a Philippine-localised open-source curriculum available to every APAC training provider; and measurable gains in RPKI deployment, MANRS compliance, and peering sessions among participating ISPs. The intended second-order outcome: reduced wholesale bandwidth spend for graduates' networks, restoring reinvestment capacity that translates into the coverage, affordability, and quality indicators the World Bank tracks, and the Philippines' PDP 2023-28 target of 65 percent household fixed-broadband penetration. Post-grant, Filipino trainers sustain delivery at marginal cost.
 
-*(97 words)*
+*(96 words)*
 
 ---
 
@@ -91,15 +91,15 @@ Five published indicators:
 
 (2) statistically significant pre/post-assessment gains per module;
 
-(3) six-month post-graduation survey covering on-the-job skill application, ROA publication, MANRS compliance, and new peering sessions, the headline outcome metric;
+(3) six-month post-graduation survey covering on-the-job skill application, ROA publication, MANRS compliance, and peering sessions, the headline metric;
 
 (4) alumni engagement (quarterly meetups, peer-support activity);
 
-(5) pre/post change in participating ISPs' wholesale bandwidth spend as share of revenue, the leading indicator for reinvestment capacity.
+(5) pre/post change in wholesale bandwidth spend as share of revenue, the leading reinvestment indicator.
 
-An independent APNIC Academy reviewer audits curriculum quality before cohort 2. Results publish quarterly on an open project page.
+An independent APNIC Academy reviewer audits curriculum quality before cohort 2. Results publish quarterly on an open page.
 
-*(74 words)*
+*(75 words)*
 
 ---
 
@@ -157,11 +157,11 @@ Both are framed around the same causal chain the concept note builds: **capabili
 
 #### [0:15 – 0:40] Why the gap persists
 
-**ON SCREEN:** Side-by-side comparison animation, Small ISPs vs Globe/PLDT duopoly; four metric bars (revenue growth, net margin, CAPEX, bandwidth spend) fill in as spoken. Quick cut to provincial cable-TV-to-fiber B-roll (aerial fiber splice, roadside build) under the cable-TV line.
+**ON SCREEN:** Side-by-side comparison animation, Small ISPs vs Globe/PLDT duopoly; two metric bars (EBITDA margin, CAPEX as % of revenue) fill in as spoken. Quick cut to provincial cable-TV-to-fiber B-roll (aerial fiber splice, roadside build) under the cable-TV line.
 
 **GIO (on-camera):**
 
-> Small ISPs carry the expansion. Many began as cable TV operators, now running fiber. They earn just 4 percent net margin, reinvest only 17 percent of revenue in CAPEX, and roughly half of their revenue goes straight to wholesale bandwidth. That's why they can't build faster, cheaper, or better.
+> Small ISPs carry the expansion. Many began as cable TV operators, now running fiber. They earn a sixteen percent EBITDA margin, against the duopoly's forty-nine, and reinvest only seventeen percent of revenue in CAPEX, against forty-seven. Without the technical capability to operate efficiently, there's little left to reinvest. That's why they can't build faster, cheaper, or better.
 
 #### [0:40 – 1:00] The lever
 
@@ -201,7 +201,7 @@ Both are framed around the same causal chain the concept note builds: **capabili
 
 #### Production notes
 
-- **Word count:** ~277 words, paces to ~115 seconds of speech plus ~5 seconds of B-roll breathing room. Slightly tight; if delivery runs long, drop "reinvest only 17 percent of revenue in CAPEX" from beat 2 (saves 8 words).
+- **Word count:** 268 words, paces to ~112 seconds of speech plus ~8 seconds of B-roll breathing room. Comfortable fit inside 2:00. If delivery runs long, drop "against forty-seven" from beat 2 (saves 2 words).
 - **Register:** documentary, evidence-forward, no slogans, no mission-statement openers, no pitch-deck closers. Every factual claim is citable (WB 2024, Ookla, APNIC).
 - **Human texture:** Beats 4 and 5 carry past IXperience workshop photos as B-roll. Beats 1, 2, 3, 6 stay graphics-forward because they carry evidence that lives better in charts.
 - **Program positioning:** community-led, IXP-neutral. Program outcomes (peering, routing-security, MANRS) are measured wherever graduates apply them, not tied to any particular IXP including GetaFIX. This matters to reviewers: ISIF scores against perceived commercial self-dealing.
@@ -221,7 +221,7 @@ A clean three-panel card. Panel 1: fixed-broadband household penetration, PH 33 
 
 #### Visual 2. The small-ISP margin trap (Challenge causal evidence)
 
-Side-by-side comparison bars, five-year 2017-22 period. Four metrics: revenue growth (Small ISPs 83, Globe/PLDT 29), EBITDA margin (16 vs 49), net income margin (4 vs 14), CAPEX as % of revenue (17 vs 47). Footnote: "Wholesale bandwidth reached ~1/3 of small-ISP revenue in 2022." Source: World Bank, from PSE and SEC filings.
+Side-by-side comparison table, five-year 2017-22 period. Two metrics that carry the causal story: EBITDA margin (Small ISPs 16 vs duopoly 49), CAPEX as % of revenue (17 vs 47). The implication the slide carries by structure: when profits are crushed, reinvestment dies. No bandwidth-% figure on the slide itself, to keep every claim defensible. Source: World Bank, from PSE and SEC filings.
 
 #### Visual 3. Capability as lever (the thesis diagram)
 
